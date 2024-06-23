@@ -36,3 +36,5 @@ print(f"Archivos en la carpeta {archivos}")
 
 
 #/Users/danizanon/Desktop/TestArchivos
+#/Users/danizanon/Desktop
+#/Users/danizanon/Documents
