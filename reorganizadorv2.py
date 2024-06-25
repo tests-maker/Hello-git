@@ -37,4 +37,9 @@ print(f"Archivos en la carpeta {archivos}")
 
 #/Users/danizanon/Desktop/TestArchivos
 #/Users/danizanon/Desktop
-#/Users/danizanon/Documents
+#/Users/danizanon/Documentsç
+
+
+"""
+Aqui irá la funcionalidad para el renombrador de archivos
+"""
