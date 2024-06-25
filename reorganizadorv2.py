@@ -37,9 +37,12 @@ print(f"Archivos en la carpeta {archivos}")
 
 #/Users/danizanon/Desktop/TestArchivos
 #/Users/danizanon/Desktop
-#/Users/danizanon/Documentsç
+#/Users/danizanon/Documents
+
+COLOR = "ROJO"
 
 
 """
 Aqui irá la funcionalidad para el renombrador de archivos
+ESTOS CAMBIOS SE AÑADEN DESDE LA RAMA MAIN, POR EJEMPLO, EL EQUIPO HA DECIDIDO QUE SE ESTABLECE UN COLOR CORPORATIVO DE LA EMPRESA PARA LOS ARCHIVOS
 """
